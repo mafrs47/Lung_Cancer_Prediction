@@ -94,6 +94,6 @@ pip install pandas matplotlib seaborn scikit-learn
 This project effectively demonstrates lung cancer prediction using various machine learning models, with Random Forest achieving the highest performance.
 
 For any questions or contributions, feel free to reach out!
-- [Email](abhayr24564@gmail.com) - Mail for any colabs or queries!
+- [Email](mailto:abhayr24564@gmail.com) - Mail for any colabs or queries!
 - [LinkedIn](https://www.linkedin.com/in/abhay-singh312/) - Let's connect!
 - [Github](https://github.com/Abhay-Singh312) - Check out my other works!
