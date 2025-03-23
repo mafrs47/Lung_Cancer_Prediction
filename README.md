@@ -1,4 +1,5 @@
 # Lung Cancer Prediction Using Machine Learning
+![GitHub Repo stars](https://img.shields.io/github/stars/Uni-Creator/Lung_Cancer_Prediction?style=social)  ![GitHub forks](https://img.shields.io/github/forks/Uni-Creator/Lung_Cancer_Prediction?style=social)
 
 This project leverages various machine learning models to predict lung cancer based on patient data. It involves data preprocessing, model training, and performance evaluation using key metrics like accuracy, precision, recall, and F1-score.
 
